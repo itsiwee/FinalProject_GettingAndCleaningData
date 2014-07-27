@@ -1,8 +1,8 @@
-==================================================================
+
 Getting and Cleaning Data - Course Project
 Coursera Data Science Specialization
 July 27, 2014
-==================================================================
+
 
 This repository has been created as the submission for the Course Project for the 'Getting and Cleaning Data' course on Coursera.  The project assignment was to create a script called r'un_analysis.R' that does the following using the data indicated below: 
  
@@ -20,7 +20,7 @@ Comments are included in the script file describing the step by step process tha
 
 
 This repository includes the following files:
-=========================================
+
 
 - 'ReadMe.md' : The informational ReadMe file that you are currently reading. 
 
@@ -28,7 +28,7 @@ This repository includes the following files:
 
 - 'run_analysis.R' : Returns a data frame showing the mean value of each variable measured for each of the 30 subjects for each of the 6 activities. 
 
-=========================================
+
 
 The original data used in the project can be obtained here: 
 
@@ -50,4 +50,4 @@ The files from the orignal data set that were used by 'run_analysis.R' to create
 
 - 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
-=========================================
+
