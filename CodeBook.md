@@ -2,7 +2,6 @@ Code Book/Data Dictionary
 Getting and Cleaning Data - Course Project
 Coursera Data Science Specialization
 July 27, 2014
-========================================================
 
 Activity 1
 	The activity being performed by subject when reading was taken. 
@@ -94,8 +93,7 @@ tGravityAcc-std()-Z
 	Mean value for standard deviation of gravity acceleration signal - z direction
 		-1 to 1
 
-<<<<<<< HEAD
+
 NOTES: For additional information on data set used in analysis, please see ReadMe file. 
-=======
-NOTES: For additional information on data set used in analysis, please see ReadMe file. 
->>>>>>> FETCH_HEAD
+
+
